@@ -1,5 +1,0 @@
-D:\RD\test\WinFormTest\WinFormTest\bin\Release\WinFormTest.exe.config
-D:\RD\test\WinFormTest\WinFormTest\obj\Release\WinFormTest.csproj.ResolveComReference.cache
-D:\RD\test\WinFormTest\WinFormTest\obj\Release\WinFormTest.Form1.resources
-D:\RD\test\WinFormTest\WinFormTest\obj\Release\WinFormTest.Properties.Resources.resources
-D:\RD\test\WinFormTest\WinFormTest\obj\Release\WinFormTest.csproj.GenerateResource.Cache
